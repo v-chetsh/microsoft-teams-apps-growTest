@@ -72,7 +72,7 @@ You now have an application registered in Microsoft Azure Active Directory.
 
  1. Click on the "Deploy to Azure" button below.
 
-    [![Deploy to Azure](https://camo.githubusercontent.com/8305b5cc13691600fbda2c857999c4153bee5e43/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FOfficeDev%2Fmicrosoft-teams-apps-grow%2Fmaster%2FDeployment%2Fazuredeploy.json)
+    [![Deploy to Azure](https://camo.githubusercontent.com/8305b5cc13691600fbda2c857999c4153bee5e43/68747470733a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fv-chetsh%2Fmicrosoft-teams-apps-growTest%2Fmaster%2FDeployment%2Fazuredeploy.json)
 
  2. When prompted, log in to your Azure subscription.
 
@@ -136,4 +136,4 @@ Create Teams app package:
 2. You can also upload it to your tenant's app catalog, so that it can be available for everyone in your tenant to install. See [here](https://docs.microsoft.com/en-us/microsoftteams/tenant-apps-catalog-teams)
 3. Install the end-user app (the grow-enduser.zip package) to your users.
 # Troubleshooting
-Please see our [Troubleshooting](https://github.com/OfficeDev/microsoft-teams-apps-grow/wiki/Troubleshooting) page.
+Please see our [Troubleshooting](https://github.com/OfficeDev/microsoft-teams-apps-growTest/wiki/Troubleshooting) page.
