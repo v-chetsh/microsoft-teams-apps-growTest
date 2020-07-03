@@ -248,8 +248,8 @@
               "value": "[parameters('manifestId')]"
             },
             {
-              "name": "App:CacheInterval",
-              "value": "[parameters('CacheInterval')]"
+              "name": "App:CacheDurationInMinutes",
+              "value": "[parameters('CacheDurationInMinutes')]"
             },
             {
               "name": "Storage:ConnectionString",
